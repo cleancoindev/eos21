@@ -16,7 +16,7 @@
     "eth-crypto": "^1.5.0",
     "eth-gas-reporter": "^0.2.14",
     "fs": "0.0.1-security",
-    "ganache-cli": "^6.7.0",
+    "ganache-cli": "^6.12.2",
     "openzeppelin-solidity": "^2.4.0",
     "web3": "^1.2.4"
   },
