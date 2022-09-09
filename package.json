@@ -18,7 +18,7 @@
     "fs": "0.0.1-security",
     "ganache-cli": "^6.7.0",
     "openzeppelin-solidity": "^2.4.0",
-    "web3": "^1.2.4"
+    "web3": "^1.2.7"
   },
   "scripts": {
     "blackhole_test": "cd blackhole && truffle test",
